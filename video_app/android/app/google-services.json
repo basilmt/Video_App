@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "223328387216",
+    "project_id": "v1d30-4pp",
+    "storage_bucket": "v1d30-4pp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223328387216:android:1ca9c18caea32b3c0d9815",
+        "android_client_info": {
+          "package_name": "com.basilmt.video_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "223328387216-nth7l5m2fo1ctm6ajislfu55fs31ahpd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.basilmt.video_app",
+            "certificate_hash": "a04a1e5575b6c999e50ad0bdcc83b136d98cc0f9"
+          }
+        },
+        {
+          "client_id": "223328387216-vturuhite0h8olbdj6f57ut01dpns0up.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTh0KK734y0qfbXwg2KH5gfUkCUikztOc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "223328387216-vturuhite0h8olbdj6f57ut01dpns0up.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
